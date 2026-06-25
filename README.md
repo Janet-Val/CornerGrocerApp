@@ -1,6 +1,6 @@
 "# CornerGrocerApp" 
 "# CornerGrocerApp" 
-* Summarize the project and what problme it was solving?
+* Summarize the project and what problem it was solving?
 The project required I create a program that tracked daily grocery item inventory. It kept a record of all items in chronological order, displayed their frequencies in numeric and histogram form, and backed up the data in a new file.
 
 * What did you do particularly well?
